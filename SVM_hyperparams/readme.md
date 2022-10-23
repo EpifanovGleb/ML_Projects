@@ -1,1 +1,1 @@
-SVM Hyperparameter Tuning using cross-validation.
+SVM different kernels Hyperparameter Tuning using cross-validation.
